@@ -1,0 +1,8 @@
+<br />
+<b>Warning</b>:  Undefined variable $file in <b>C:\xampp\htdocs\HLOLC\School Management System\student\Upload.php</b> on line <b>114</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught ValueError: Path cannot be empty in C:\xampp\htdocs\HLOLC\School Management System\student\Upload.php:114
+Stack trace:
+#0 C:\xampp\htdocs\HLOLC\School Management System\student\Upload.php(114): readfile('')
+#1 {main}
+  thrown in <b>C:\xampp\htdocs\HLOLC\School Management System\student\Upload.php</b> on line <b>114</b><br />
